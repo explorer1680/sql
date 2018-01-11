@@ -1,0 +1,3 @@
+basic structure for grouping
+
+IN clause with SELECT clause.

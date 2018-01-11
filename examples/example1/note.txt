@@ -1,0 +1,3 @@
+using #temp table instead of cursor to write sql
+CASE WHEN THEN END clause
+create table with SELECT clause
